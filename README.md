@@ -220,8 +220,7 @@ Applicants are ranked and categorized based on their hybrid final score:
 ```
 📦 credit-card-approval-hybrid-ml/
 │
-├── 📁 data/
-│   └── credit_card_data.csv       # Dataset used for training
+├── 📁 credit_card_data.csv       # Dataset used for training
 │
 ├── 📓 Credit_card_approval_&_anomaly_detection.ipynb    # Main notebook — full pipeline
 │
