@@ -223,7 +223,7 @@ Applicants are ranked and categorized based on their hybrid final score:
 ├── 📁 data/
 │   └── credit_card_data.csv       # Dataset used for training
 │
-├── 📓 AIML_minor_project.ipynb    # Main notebook — full pipeline
+├── 📓 Credit_card_approval_&_anomaly_detection.ipynb    # Main notebook — full pipeline
 │
 ├── 📄 requirements.txt
 ├── 📄 LICENSE
